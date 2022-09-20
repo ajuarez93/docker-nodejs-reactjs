@@ -1,0 +1,10 @@
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignora los archivos relacionados a API keys
+.env
+
+# Ignora archivos del proyecto
+app_backend/
+app_frontend/
+app_sass/
